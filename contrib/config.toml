@@ -1,0 +1,3 @@
+projects = [
+    { path = "~/code/github.com/tyler-smith/promptpath", alias = "promptpath" }
+]
